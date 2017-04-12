@@ -1,0 +1,17 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\bin\Debug\JsonWebAsync.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\bin\Debug\JsonWebAsync.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\bin\Debug\JsonWebAsync.pri
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\JsonWebAsync.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\JsonWebAsync.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\JsonWebAsync.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\priconfig.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\layout.resfiles
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\resources.resfiles
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\pri.resfiles
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\qualifiers.txt
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\JsonWebAsync\JsonWebAsync\obj\Debug\MultipleQualifiersPerDimensionFound.txt
